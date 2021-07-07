@@ -15,7 +15,7 @@ Kit siège + séparateur TROBOLO® utilisé pour cette conception.
 Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-toilette/
 
 <i>TROBOLO® seat + divider kit used for this design.</i>
-<i> The product link : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-toilette/ </i>
+<i> The product link : https://trobolo.com/en/products/urine-diverting-toilets-insert-grey-toilet-seat/ </i>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Y-Solo/DryToilet-HYMERS555/main/Images/logo.png" width="150" title="hover text">
