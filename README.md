@@ -1,4 +1,4 @@
-# <p> Toilette sèche pour camping car HYMER S555 de 1993 </p> <i>Dry toilet for HYMER S555 camping car from 1993</i>
+# <p> Toilette sèche pour camping car HYMER S555 de 1993 </p> <i>Dry toilet for HYMER S555 motor home from 1993</i>
 Conception d'une toilette sèche en remplacement de la toilette chimique d'origine.
 Fabriquée essentiellement à partir de panneaux de bois en contreplaqué d'épaisseur 18mm.
 
