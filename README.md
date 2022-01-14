@@ -80,6 +80,7 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 - Scie Cloche de 60mm / <i> 60mm diameter hole saw  </i>
 - Mètre ruban / <i> Mesureing tape </i>
 - Equerre de chantier / <i> Site square </i>
+- Grande règle en acier / <i> Large steel ruler </i>
 - Crayon à papier / <i> Pencil </i>
 - Coffret assortiment de vis à bois / <i> Wood screw assortment box </i>
 - Equipements de Protection Individuel (EPI) / <i> Personal Protective Equipment (PPE) </i>
