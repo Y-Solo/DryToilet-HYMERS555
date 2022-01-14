@@ -97,7 +97,7 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 
 # <p> Découpe de l'ouverture pour le séparateur </p> <i> Opening cut for the toilet bowl </i>
 La découpe devra être effectuée à l'aide du gabarit en carton fourni avec la cuvette. Trobolo n'a pas pu me fournir les dimensions précises de l'ouverture à découper / 
-<i> The cutout should be made using the cardboard template supplied with the toilet bowl. Trobolo could not provide me with the precise dimensions of the opening to be cut. </i>
+<i> The cutout should be made using the cardboard template supplied with the toilet bowl. Trobolo do not provide me the precise dimensions of the opening to be cut. </i>
 
 <br>
 
