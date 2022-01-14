@@ -38,7 +38,7 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 # <p> Schéma de la salle d'eau avec toilette </p> <i>Diagram of the bathroom with toilet</i>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Y-Solo/DryToilet-HYMERS555/main/Images/SDBavecWC.JPG" width="750" title="hover text">
+  <img src="https://raw.githubusercontent.com/Y-Solo/DryToilet-HYMERS555/main/Images/SDBavecWC2.JPG" width="750" title="hover text">
 </p>
 <br>
 <br>
