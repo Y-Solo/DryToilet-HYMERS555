@@ -92,9 +92,16 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 - Application d'un vernis epoxy pour protection du bois contre l'humidité et les projections d'eau de la douche / <i> Application of an epoxy varnish to protect the wood against humidity and splashing water from the shower </i>
 - Application de joints silicones contre les infiltrations d'eau tout autour de la structure / <i> Application of silicone seals against water infiltration all around the structure </i>
 - Ajout d'un joint feutre pour éviter l'infiltration d'eau dans le bac à sciures (entre les pièces L et N) / <i> Addition of a felt seal to prevent water infiltration into the sawdust bin (between parts L and N) </i>
+
 <br>
 
 # <p> Conception, plans et visuels créés par Yannis MICHALET / ARCAD Digital </p> <i> Design, plans and visuals created by Yannis MICHALET / ARCAD Digital </i>
+
+<br>
+
+# <p> Découpe de l'ouverture pour la cuvette </p> <i> Opening cut for the toilet bowl </i>
+La découpe devra être effectuée à l'aide du gabarit en carton fourni avec la cuvette. Trobolo n'a pas pu me fournir les dimensions précises de l'ouverture à découper.
+<i> The cutout should be made using the cardboard template supplied with the toilet bowl. Trobolo could not provide me with the precise dimensions of the opening to be cut. </i>
 
 <br>
 
