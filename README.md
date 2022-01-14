@@ -58,7 +58,7 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
   <img src="https://raw.githubusercontent.com/Y-Solo/DryToilet-HYMERS555/main/Images/Bac.jpg" width="750" title="hover text">
 </p>
 <p> Voir le plan PDF pour correspondance des nomenclatures </p> <i> See the PDF plan for correspondence of the nomenclatures </i>
-
+<br>
 <br>
 
 # <p> Résultat final </p> <i> Final result </i>
