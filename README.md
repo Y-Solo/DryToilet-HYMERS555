@@ -73,14 +73,21 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 
 <br>
 
-# <p> Améliorations prévues </p> <i> Planned improvements </i>
-- Meilleure prises de côtes / <i> Better measurements catches </i>
-- Choix d'un modèle de cuvette / <i> Choice of a toilet bowl model </i>
-- Amélioration de la modélisation du séparateur + cuvette / <i> Improved modeling of the separator + bowl </i>
+# <p> Outils nécessaires </p> <i> Necessary tools </i>
+- Scie Circulaire / <i> Circular saw </i>
+- Scie Sauteuse / <i> Jigsaw </i>
+- Visseuse Perceuse électrique / <i> Electric drill & screwdriver </i>
+- Scie Cloche de 60mm / <i> 60mm diameter hole saw  </i>
+- Mètre ruban / <i> Mesureing tape </i>
+- Equerre de chantier / <i> Site square </i>
+- Crayon à papier / <i> Pencil </i>
+- Coffret assortiment de vis à bois / <i> Wood screw assortment box </i>
+- Equipements de Protection Individuel (EPI) / <i> Personal Protective Equipment (PPE) </i>
 
 <br>
 
 # <p> Finitions à prévoir </p> <i> Finishes to be expected </i>
+- Poncer les pièces après découpe / <i> Sand the parts after cutting </i>
 - Application d'un vernis epoxy pour protection du bois contre l'humidité et les projections d'eau de la douche / <i> Application of an epoxy varnish to protect the wood against humidity and splashing water from the shower </i>
 - Application de joints silicones contre les infiltrations d'eau tout autour de la structure / <i> Application of silicone seals against water infiltration all around the structure </i>
 - Ajout d'un joint feutre pour éviter l'infiltration d'eau dans le bac à sciures (entre les pièces L et N) / <i> Addition of a felt seal to prevent water infiltration into the sawdust bin (between parts L and N) </i>
