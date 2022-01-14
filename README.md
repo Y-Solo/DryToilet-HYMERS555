@@ -61,15 +61,15 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 
 <br>
 
-----------------------------------------------
-
-<br>
-
 # <p> Résultat final </p> <i> Final result </i>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Y-Solo/DryToilet-HYMERS555/main/Images/271376325_680866946657449_4711238032198704918_n.jpg" width="750" title="hover text">
 </p>
+
+<br>
+
+----------------------------------------------
 
 <br>
 
