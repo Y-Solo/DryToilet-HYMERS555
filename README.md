@@ -94,10 +94,6 @@ Le lien produit : https://trobolo.com/fr/produits/separateur-gris-avec-siege-de-
 - Ajout d'un joint feutre pour éviter l'infiltration d'eau dans le bac à sciures (entre les pièces L et N) / <i> Addition of a felt seal to prevent water infiltration into the sawdust bin (between parts L and N) </i>
 <br>
 
-# Disclaimer
-- Conception non terminée, n'a pas encore été validée / <i> Design not completed, not yet validated </i>
-<br>
-
 # <p> Conception, plans et visuels créés par Yannis MICHALET / ARCAD Digital </p> <i> Design, plans and visuals created by Yannis MICHALET / ARCAD Digital </i>
 
 <br>
